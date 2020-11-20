@@ -1,0 +1,19 @@
+{
+    "name": "scour-app",
+    "version": "1.0.0",
+    "description": "A song-finding web app powered by Spotify",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vhorvath2010/scour-app.git"
+    },
+    "author": "Vincent Horvath",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vhorvath2010/scour-app/issues"
+    },
+    "homepage": "https://github.com/vhorvath2010/scour-app#readme"
+}
